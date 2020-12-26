@@ -5,6 +5,9 @@ Website - https://github.com/i1729/i1729.com
 API - https://github.com/i1729/api.i1729.com
   
 Solidity Contracts - https://github.com/i1729/contracts
+  
+  
+Deploy Guide - https://github.com/i1729/docs
 
 # 1729 Full Loop Demos
 ## Cryptoprofiles
