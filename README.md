@@ -5,7 +5,7 @@
 Demo: https://i1729.com/profile/vitalik
 
 ## Feed
-![](https://i.imgur.com/CJtwVpf.mp4)
+Video: https://i.imgur.com/CJtwVpf.mp4
 Demo: https://i1729.com/feed
 
 RSS Export: https://api.i1729.com/rssfeed
