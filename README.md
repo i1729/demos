@@ -1,6 +1,9 @@
 # GitHub Repos
+  
 Website - https://github.com/i1729/i1729.com
+  
 API - https://github.com/i1729/api.i1729.com
+  
 Solidity Contracts - https://github.com/i1729/contracts
 
 # 1729 Full Loop Demos
@@ -11,9 +14,11 @@ Demo: https://i1729.com/profile/vitalik
 
 ## Feed
 Repo: https://github.com/i1729/i1729.com
-
+  
 Video: https://i.imgur.com/CJtwVpf.mp4
+  
 Demo: https://i1729.com/feed
+  
 RSS Export: https://api.i1729.com/rssfeed
 
 ## Folio
